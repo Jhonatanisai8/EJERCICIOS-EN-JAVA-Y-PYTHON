@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.EJERCICIOS;
 /*
 EJERCICIO DE LOGICA DE PROGRAMACION:
 Solicita la temperatura y si está lloviendo (sí o no).
