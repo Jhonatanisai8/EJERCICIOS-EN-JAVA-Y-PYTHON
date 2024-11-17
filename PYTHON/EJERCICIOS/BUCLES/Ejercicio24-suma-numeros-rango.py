@@ -1,6 +1,6 @@
 """
 EJERCICIO DE LOGICA DE PROGRAMACION: 
-Escribe un programa que sume todos los 
+Escribe un programa que sume todos los numeros
 que hay en un determinado rango.
 El programa pregunta al usuario el inicio 
 y fin.
