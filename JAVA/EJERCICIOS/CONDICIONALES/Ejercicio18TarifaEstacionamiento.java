@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.CONDICIONALES;
 /*
 EJERCICIO DE LOGICA DE PROGRAMACION;
 Pide al usuario la hora de entrada y la hora de

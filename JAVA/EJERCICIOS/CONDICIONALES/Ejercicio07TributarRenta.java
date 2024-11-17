@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.CONDICIONALES;
 /*
 EJERCICIO DE PROGRAMACION:
 Los tramos impositivos para la declaración de la renta 

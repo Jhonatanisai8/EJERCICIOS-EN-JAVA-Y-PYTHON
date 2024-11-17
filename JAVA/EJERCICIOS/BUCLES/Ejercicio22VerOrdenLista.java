@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.BUCLES;
 /*
 EJERCICIO DE LOGICA DE PROGRAMACION
 Hacer un programa que verifique en estado(Descendente,Ascentdente

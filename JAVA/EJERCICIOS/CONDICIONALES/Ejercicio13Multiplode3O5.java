@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.CONDICIONALES;
 /*
  Escribe un programa que lea un número e 
  imprima si es divisible por 3, por 5, 

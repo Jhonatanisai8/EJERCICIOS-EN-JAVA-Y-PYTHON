@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.CONDICIONALES;
 
 
 /*

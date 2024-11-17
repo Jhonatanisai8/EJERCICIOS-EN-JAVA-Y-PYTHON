@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.CONDICIONALES;
 /*
 EJERCICIO DE LOGICA DE PROGRAMACION:
 Escribe un programa que pida la edad del usuario

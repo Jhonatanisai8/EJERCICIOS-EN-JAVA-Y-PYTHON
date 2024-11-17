@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.CONDICIONALES;
 /*
  Programa que lea un número entero
   y muestre si el número es múltiplo de 10.

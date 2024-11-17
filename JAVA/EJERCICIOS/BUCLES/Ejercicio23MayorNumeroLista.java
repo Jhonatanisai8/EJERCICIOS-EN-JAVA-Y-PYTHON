@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.BUCLES;
 /*
 EJERCICIO DE LOGICA DE PROGRAMACION:
 Calcular el mayor numero de una lista.

@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.CONDICIONALES;
 /*
 EJERCICIO DE LOGICA DE PROGRAMACION:
 Crea un programa que pida al usuario su promedio de calificaciones

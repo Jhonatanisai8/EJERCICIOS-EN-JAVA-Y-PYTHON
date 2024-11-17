@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.CONDICIONALES;
 
 import java.util.Scanner;
 public class Ejercicio03DivisorCero {

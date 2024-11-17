@@ -1,4 +1,4 @@
-package JAVA.EJERCICIOS;
+package JAVA.EJERCICIOS.CONDICIONALES;
 /*
 EJERCICIO DE LOGICA DE PROGRAMACION: 
 crear un programa que funcione como una calculadora
